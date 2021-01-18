@@ -1,0 +1,8 @@
+.debitTable, .debitsImage {
+    text-align: center;
+}
+
+.debitTable {
+    border: 2px black solid;
+    border-radius: 5%;
+} 

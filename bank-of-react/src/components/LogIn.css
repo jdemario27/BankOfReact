@@ -1,0 +1,33 @@
+h2 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 200px;
+}
+ 
+.logInButton {
+    width: 90px;
+    height: 30px;
+    background-color: lawngreen;
+}
+
+body {
+    background-color: mediumaquamarine;
+}
+
+.image {
+    text-align: center;
+}
+
+* {
+    background-color: rgb(50, 202, 240);;
+}

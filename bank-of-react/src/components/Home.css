@@ -1,0 +1,11 @@
+.links, h1 {
+    text-align: center;
+}
+
+.title {
+    color: red;
+}
+
+* {
+    background-color: rgb(77, 219, 34);
+} 
